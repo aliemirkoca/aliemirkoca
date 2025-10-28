@@ -60,8 +60,8 @@ I am always challenging myself to learn more. My current focus is on:
 
 ### 📫 How to reach me:
 
-* **LinkedIn:** [LinkedIn Profil Linkiniz]
-* **Email:** [E-posta Adresiniz]
+* **LinkedIn:** https://www.linkedin.com/in/aliemirkoca/
+* **Email:** aliemirkoca@gmail.com
 
 ---
 
