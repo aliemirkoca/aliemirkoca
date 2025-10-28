@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm [Adınız]
+### 👋 Hi there, I'm Ali Emir
 
 I am an **Industrial Engineering Student** with a strong passion for software development and data-driven systems. My goal is to bridge the gap between complex data analysis and robust application development, using **Python** for analysis and modeling, and **C# / .NET** for creating scalable, real-world applications.
 
