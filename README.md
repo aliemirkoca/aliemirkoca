@@ -53,7 +53,6 @@ As a student, I focus on building end-to-end projects that demonstrate my skills
 I am always challenging myself to learn more. My current focus is on:
 * Integrating Python ML models with a .NET Core backend.
 * Writing more efficient SQL queries and optimizing database access with Entity Framework Core.
-* The fundamentals of cloud deployment for my .NET applications.
 * Advanced software architecture and design patterns.
 
 ---
