@@ -44,7 +44,7 @@ I am continuously learning and applying these technologies in my projects:
 As a student, I focus on building end-to-end projects that demonstrate my skills:
 * Analyzing diverse datasets to uncover actionable insights.
 * Training and evaluating predictive machine learning models.
-* Developing robust REST APIs with .NET Core to serve these models or manage data.
+* Developing backend services and APIs with .NET Core.
 * Creating C# desktop applications to provide user-friendly interfaces for data-driven processes.
 
 ---
@@ -52,7 +52,7 @@ As a student, I focus on building end-to-end projects that demonstrate my skills
 ### 🌱 I’m Currently Learning...
 
 I am always challenging myself to learn more. My current focus is on:
-* Integrating Python ML models with a .NET Core backend.
+* Integrating Python ML models.
 * Writing more efficient SQL queries and optimizing database access with Entity Framework Core.
 * Advanced software architecture and design patterns.
 
