@@ -63,6 +63,6 @@ I am always challenging myself to learn more. My current focus is on:
 * **LinkedIn:** https://www.linkedin.com/in/aliemirkoca/
 * **Email:** aliemirkoca@gmail.com
 
----
+----
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliemirkoca&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
