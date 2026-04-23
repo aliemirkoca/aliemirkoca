@@ -52,3 +52,4 @@ I focus on building end-to-end analytical and AI-driven projects, bridging the g
 
 * **LinkedIn:** [linkedin.com/in/aliemirkoca](https://www.linkedin.com/in/aliemirkoca/)
 * **Email:** aliemirkoca@gmail.com
+* **Kaggle:** [kaggle.com/aliemirkoca](https://www.kaggle.com/aliemirkoca)
