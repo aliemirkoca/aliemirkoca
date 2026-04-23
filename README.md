@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/aliemirkoca/count.svg" alt="Visitor Count" />
-</div>
-
 ### 👋 Hi there, I'm Ali Emir
 
 I am a second-year **Industrial Engineering Student** deeply engaged in Data Science, Machine Learning, and Computer Vision. My goal is to build high-performance data pipelines, predictive models, and scalable APIs, with a strong professional focus on InsurTech and FinTech solutions. 
